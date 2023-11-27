@@ -51,4 +51,3 @@ I love the entire process of developing creative websites. I love the challenge 
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=itsnirmal&layout=compact)](https://github.com/itsnirmal)
 
-[![Visitors](itsnirmal.vercel.app/)
